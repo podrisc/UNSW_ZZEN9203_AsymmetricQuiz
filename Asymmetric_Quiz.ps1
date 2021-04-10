@@ -23,7 +23,10 @@ Function banner-art {
                         YP             Y8P             YP
 
 
+                                    ASYMMETRIC QUIZ 
+                                    
                                 AUTHOR: Peter O'Driscoll
+                                ID: Z5341404
                                 VERSION:April
 "@
 }
